@@ -7,4 +7,17 @@
     <color name="Black">#000000</color>
     <color name="Transparent">#00000000</color>
     <color name="White">#FFFFFF</color>
+
+    <color name="Default">#FFFFFF</color>
+    <color name="Coral">#FAAFA8</color>
+    <color name="Orange">#F39F76</color>
+    <color name="Sand">#FFF8B8</color>
+    <color name="Storm">#E2F6D3</color>
+    <color name="Fog">#B4DDD3</color>
+    <color name="Sage">#D4E4ED</color>
+    <color name="Mint">#AECCDC</color>
+    <color name="Dusk">#D3BFDB</color>
+    <color name="Flower">#F6E2DD</color>
+    <color name="Blossom">#E9E3D4</color>
+    <color name="Clay">#EFEFF1</color>
 </resources>
