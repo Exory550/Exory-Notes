@@ -36,9 +36,12 @@ jobs:
       - name: Build Debug APK
         run: ./gradlew assembleDebug --no-daemon
 
+      - name: Find APK
+        run: find . -name "*.apk" -type f
+
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
         with:
           name: ExoryNotes-debug
-          path: app/build/outputs/apk/debug/app-debug.apk
+          path: ExoryNotes/app/build/outputs/apk/debug/app-debug.apk
           retention-days: 7
