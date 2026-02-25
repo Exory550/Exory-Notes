@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fragment Titles -->
+    <string name="notes">Catatan</string>
+    <string name="labels">Label</string>
+    <string name="deleted">Terhapus</string>
+    <string name="archived">Diarsipkan</string>
+    <string name="settings">Pengaturan</string>
+
+    <!-- Menu Options -->
+    <string name="share">Bagikan</string>
+    <string name="filter">Filter</string>
+    <string name="search">Cari</string>
+    <string name="delete">Hapus</string>
+    <string name="restore">Pulihkan</string>
+    <string name="archive">Arsipkan</string>
+    <string name="unarchive">Batalkan arsip</string>
+    <string name="add_images">Tambah gambar</string>
+    <string name="delete_all">Hapus semua</string>
+    <string name="record_audio">Rekam audio</string>
+    <string name="set_reminder">Atur pengingat</string>
+    <string name="change_color">Ubah warna</string>
+    <string name="make_a_copy">Buat salinan</string>
+    <string name="delete_forever">Hapus selamanya</string>
+
+    <!-- Pinning -->
+    <string name="pin">Semat</string>
+    <string name="unpin">Lepas semat</string>
+    <string name="pinned">Disemat</string>
+    <string name="others">Lainnya</string>
+
+    <!-- Chooser dialog hints -->
+    <string name="view_note">Lihat catatan</string>
+
+    <!-- Dialogs -->
+    <string name="save">Simpan</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Batal</string>
+    <string name="continue_">Lanjutkan</string>
+    <string name="open_link">Buka tautan</string>
+    <string name="make_list">Buat daftar</string>
+    <string name="take_note">Buat catatan</string>
+    <string name="add_label">Tambah label</string>
+    <string name="export">Ekspor</string>
+    <string name="view_file">Lihat file</string>
+    <string name="save_to_device">Simpan ke perangkat</string>
+    <string name="edit_label">Edit label</string>
+    <string name="label_exists">Label sudah ada</string>
+    <string name="delete_label">Hapus label?</string>
+    <string name="create_new">Belum ada label. Buat baru?</string>
+    <string name="delete_all_notes">Hapus semua catatan?</string>
+    <string name="delete_selected_notes">Hapus catatan yang dipilih?</string>
+    <string name="delete_note_forever">Hapus catatan selamanya?</string>
+    <string name="your_notes_associated">Catatan Anda yang terhubung dengan label ini tidak akan dihapus</string>
+
+    <!-- Lists and Notes -->
+    <string name="note">Catatan</string>
+    <string name="item">Item</string>
+    <string name="date">Tanggal</string>
+    <string name="title">Judul</string>
+    <string name="add_item">Tambah Item</string>
+    <string name="audio_recordings">Rekaman Audio</string>
+    <string name="drag_handle">Pegangan Geser</string>
+    <string name="bold">Tebal</string>
+    <string name="link">Tautan</string>
+    <string name="italic">Miring</string>
+    <string name="strikethrough">Coret</string>
+    <string name="clear_formatting">Hapus format</string>
+    <string name="monospace">Monospace</string>
+
+    <!-- Miscellaneous -->
+    <string name="saved_to_device">Tersimpan ke perangkat</string>
+    <string name="saved_to_notally">Tersimpan ke ExoryNotes</string>
+    <string name="empty_note">Catatan kosong</string>
+    <string name="empty_list">Daftar kosong</string>
+    <string name="select_labels">Pilih label</string>
+
+    <!-- Messages -->
+    <string name="cant_open_link">Tidak dapat membuka tautan</string>
+    <string name="something_went_wrong">Terjadi kesalahan. Silakan coba lagi.</string>
+    <string name="install_an_email">Pasang aplikasi email untuk mengirim umpan balik</string>
+    <string name="install_a_browser">Pasang peramban untuk membuka tautan ini</string>
+    <string name="cant_find_note">Tidak dapat menemukan catatan. Mungkin telah dihapus</string>
+
+    <!-- Settings Page -->
+    <string name="appearance">Tampilan</string>
+
+    <string name="view">Tampilan</string>
+    <string name="list">Daftar</string>
+    <string name="grid">Grid</string>
+
+    <string name="theme">Tema</string>
+    <string name="dark">Gelap</string>
+    <string name="light">Terang</string>
+    <string name="follow_system">Ikuti sistem</string>
+
+    <string name="date_format">Format tanggal</string>
+    <string name="none">Tidak ada</string>
+
+    <string name="text_size">Ukuran teks</string>
+    <string name="small">Kecil</string>
+    <string name="medium">Sedang</string>
+    <string name="large">Besar</string>
+
+    <string name="content_density">Kepadatan konten</string>
+    <string name="max_items_to_display">Maks item ditampilkan dalam daftar</string>
+    <string name="max_lines_to_display">Maks baris ditampilkan dalam catatan</string>
+    <string name="max_lines_to_display_title">Maks baris ditampilkan dalam judul</string>
+
+    <!-- Backup -->
+    <string name="backup">Cadangan</string>
+    <string name="auto_backup">Cadangan otomatis</string>
+    <string name="tap_to_set_up">Ketuk untuk mengatur</string>
+    <string name="notes_will_be">Catatan akan dicadangkan ke penyimpanan internal ponsel Anda setiap hari.\n\nIni mungkin tidak berfungsi jika mode hemat daya diaktifkan</string>
+    <string name="choose_folder">Pilih folder</string>
+    <string name="disable_auto_backup">Nonaktifkan cadangan otomatis</string>
+    <string name="choose_another_folder">Pilih folder lain</string>
+    <string name="cant_find_folder">Tidak dapat menemukan folder. Mungkin telah dipindahkan atau dihapus</string>
+    <string name="invalid_backup">Cadangan tidak valid</string>
+    <string name="imported_backup">Cadangan diimpor</string>
+    <string name="exporting_backup">Mengekspor cadangan</string>
+    <string name="importing_backup">Mengimpor cadangan</string>
+    <string name="calculating">Menghitung…</string>
+
+    <string name="export_backup">Ekspor cadangan</string>
+    <string name="import_backup">Impor cadangan</string>
+
+    <string name="about">Tentang</string>
+    <string name="libraries">Pustaka</string>
+    <string name="rate">Nilai aplikasi ini</string>
+    <string name="send_feedback">Kirim umpan balik</string>
+
+    <string name="github" translatable="false">GitHub</string>
+
+    <!-- Widget -->
+    <string name="single_note_or_list">Catatan atau daftar tunggal</string>
+    <string name="select_note">Pilih catatan</string>
+
+    <!-- Images -->
+    <string name="count" translatable="false">%1$d / %2$d</string>
+    <string name="adding_images">Menambahkan gambar</string>
+    <string name="deleting_images">Menghapus gambar</string>
+    <string name="invalid_image">Gambar tidak valid</string>
+    <string name="error_while_renaming_image">Kesalahan saat mengganti nama gambar</string>
+    <string name="image_format_not_supported">Format gambar tidak didukung</string>
+    <string name="delete_image_forever">Hapus gambar selamanya?</string>
+    <string name="cant_load_image">Tidak dapat memuat gambar. Mungkin telah dipindahkan atau dihapus</string>
+    <string name="unknown_name">Nama tidak diketahui</string>
+    <string name="unknown_error">Kesalahan tidak diketahui</string>
+    <string name="insert_an_sd_card_images">Masukkan kartu SD untuk menambahkan gambar</string>
+
+    <plurals name="cant_add_images">
+        <item quantity="one">Tidak dapat menambahkan %d gambar</item>
+        <item quantity="other">Tidak dapat menambahkan %d gambar</item>
+    </plurals>
+
+    <!-- Audio -->
+    <string name="play">Putar</string>
+    <string name="stop">Berhenti</string>
+    <string name="start">Mulai</string>
+    <string name="pause">Jeda</string>
+    <string name="resume">Lanjutkan</string>
+    <string name="paused">Dijeda</string>
+    <string name="recording">Merekam…</string>
+    <string name="ready_to_record">Siap merekam</string>
+    <string name="discard">Buang</string>
+    <string name="save_recording">Simpan rekaman?</string>
+    <string name="delete_audio_recording_forever">Hapus rekaman audio selamanya?</string>
+    <string name="tap_for_more_options">Ketuk untuk opsi lainnya</string>
+    <string name="to_record_audio">Untuk merekam audio, izinkan ExoryNotes mengakses mikrofon Anda. Ketuk Pengaturan > Izin dan aktifkan Mikrofon</string>
+    <string name="please_grant_notally_audio">Harap berikan izin ExoryNotes untuk merekam audio. Rekaman tidak pernah meninggalkan perangkat Anda</string>
+    <string name="insert_an_sd_card_audio">Masukkan kartu SD untuk merekam audio</string>
+    <string name="something_went_wrong_audio">Terjadi kesalahan. Rekaman audio mungkin telah dipindahkan atau dihapus.\n\nError : (%1$d, %2$d)</string>
+
+    <!-- Reminder -->
+    <string name="time">Waktu</string>
+    <string name="select_frequency">Pilih frekuensi</string>
+    <string name="does_not_repeat">Tidak berulang</string>
+    <string name="daily">Harian</string>
+    <string name="monthly">Bulanan</string>
+    <string name="repeats_daily">%1$s, Berulang setiap hari</string>
+    <string name="repeats_monthly">%1$s, Berulang setiap bulan</string>
+    <string name="please_grant_notally_notification">Harap berikan izin ExoryNotes untuk mengirim notifikasi</string>
+    <string name="please_grant_notally_alarm">Harap berikan izin ExoryNotes untuk mengatur alarm</string>
+</resources>
