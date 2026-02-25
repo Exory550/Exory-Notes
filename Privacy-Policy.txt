@@ -1,0 +1,37 @@
+PRIVACY POLICY
+ExoryNotes
+Last updated: February 25, 2026
+
+1. INTRODUCTION
+ExoryNotes ("we", "our", or "us") is committed to protecting your privacy.
+This Privacy Policy explains how we handle information when you use our app.
+
+2. DATA COLLECTION
+ExoryNotes does NOT collect any personal data.
+All notes, images, and audio recordings are stored locally on your device only.
+We do not have access to your notes or any content you create.
+
+3. DATA STORAGE
+All data is stored locally on your device.
+Backup files are saved to a location you choose on your device.
+We do not upload any data to external servers.
+
+4. PERMISSIONS
+- Storage: To save and load notes, images, and backups
+- Microphone: To record audio notes (only when you use this feature)
+- Notifications: To send reminders you have set
+
+5. THIRD PARTY SERVICES
+ExoryNotes does not use any third-party analytics or advertising services.
+
+6. CHILDREN'S PRIVACY
+ExoryNotes does not knowingly collect data from children under 13.
+
+7. CHANGES TO THIS POLICY
+We may update this Privacy Policy from time to time.
+Changes will be posted on our GitHub repository.
+
+8. CONTACT
+If you have questions about this Privacy Policy, contact us at:
+Email: Exory.official55@gmail.com
+GitHub: https://github.com/Exory550/Exory-Notes
