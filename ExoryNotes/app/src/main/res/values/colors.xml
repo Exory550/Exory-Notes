@@ -9,15 +9,15 @@
     <color name="White">#FFFFFF</color>
 
     <color name="Default">#FFFFFF</color>
-    <color name="Coral">#FFE4E1</color>
-    <color name="Orange">#FFF3E0</color>
-    <color name="Sand">#FFFDE7</color>
-    <color name="Storm">#F1F8E9</color>
-    <color name="Fog">#E0F7FA</color>
-    <color name="Sage">#E3F2FD</color>
-    <color name="Mint">#E1F5FE</color>
-    <color name="Dusk">#F3E5F5</color>
-    <color name="Flower">#FCE4EC</color>
-    <color name="Blossom">#FFF8E1</color>
-    <color name="Clay">#FAFAFA</color>
+    <color name="Coral">#FFF0EE</color>
+    <color name="Orange">#FFF8F0</color>
+    <color name="Sand">#FFFEF0</color>
+    <color name="Storm">#F5FFF0</color>
+    <color name="Fog">#F0FFFD</color>
+    <color name="Sage">#F0F8FF</color>
+    <color name="Mint">#F0FBFF</color>
+    <color name="Dusk">#FAF0FF</color>
+    <color name="Flower">#FFF0F5</color>
+    <color name="Blossom">#FFFFF0</color>
+    <color name="Clay">#F8F8F8</color>
 </resources>
