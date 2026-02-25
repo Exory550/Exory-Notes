@@ -1,0 +1,3 @@
+rootProject.name = "ExoryNotes"
+include ':app'
+project(':app').projectDir = new File('ExoryNotes/app')
