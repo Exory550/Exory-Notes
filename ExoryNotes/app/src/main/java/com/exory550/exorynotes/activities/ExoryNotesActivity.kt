@@ -604,6 +604,11 @@ abstract class ExoryNotesActivity(private val type: Type) : AppCompatActivity() 
         binding.root.isSaveFromParentEnabled = false
     }
 
+    private fun pin(item: MenuItem) {
+        model.pinned = !model.pinned
+        bindPinned(item)
+    }
+
     private fun bindPinned(item: MenuItem) {
         val icon: Int
         val title: Int
