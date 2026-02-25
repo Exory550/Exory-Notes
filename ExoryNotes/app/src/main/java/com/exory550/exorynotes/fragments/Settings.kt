@@ -71,7 +71,7 @@ class Settings : Fragment() {
         setupProgressDialog(R.string.importing_backup, model.importingBackup)
 
         binding.GitHub.setOnClickListener {
-            openLink("https://github.com/OmGodse/Notally")
+            openLink("https://github.com/Exory550/Exory-Notes")
         }
 
         binding.Libraries.setOnClickListener {
@@ -150,7 +150,7 @@ class Settings : Fragment() {
         val intent = Intent(Intent.ACTION_SEND)
         intent.selector = Intent(Intent.ACTION_SENDTO, Uri.parse("mailto:"))
 
-        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf("omgodseapps@gmail.com"))
+        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf("exory.official55@gmail.com"))
         intent.putExtra(Intent.EXTRA_SUBJECT, "ExoryNotes [Feedback]")
 
         val app = requireContext().applicationContext as Application
