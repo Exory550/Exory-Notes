@@ -593,7 +593,7 @@ abstract class ExoryNotesActivity(private val type: Type) : AppCompatActivity() 
         binding.EnterBody.setTextSize(TypedValue.COMPLEX_UNIT_SP, body)
 
         model.labels.observe(this, Observer { labels ->
-            Operations.bindLabels(binding.LabelGroup, labels, model.textSize)
+            Operations.bindLabels(binding.LabelGroup, labels, TextSize.getDisplayBodySize(model.textSize))
         })
 
         setupColor()
